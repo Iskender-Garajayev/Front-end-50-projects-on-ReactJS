@@ -5,7 +5,7 @@ import Header from './components/header/Header';
 function App() {
   return (
     <div className="App">
-      <Header/>
+      <Header className=' text-blue-500'/>
       <Footer/>
     </div>
   );
