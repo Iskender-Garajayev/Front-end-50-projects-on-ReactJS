@@ -4,12 +4,12 @@ import MuseumOutlinedIcon from "@mui/icons-material/MuseumOutlined";
 
 const Header = () => {
   return (
-    <div className=" flex ">
+    <div className=" flex  w-full h-12 bg-slate-600">
       <div className="header_logo"></div>
       <MuseumOutlinedIcon />
       <div className="header_serch"></div>
       <input
-        className=" rounded-2xl border-black"
+        className=" rounded-2xl border-black w-14 h-6"
         placeholder="Search"
         type="text"
       />
