@@ -4,7 +4,7 @@ import MuseumOutlinedIcon from "@mui/icons-material/MuseumOutlined";
 
 const Header = () => {
   return (
-    <div className=" flex justify-between items-center w-full h-12 bg-slate-600">
+    <div className="flex justify-between items-center w-full h-12 bg-slate-600">
       <div className="header_logo"></div>
       <MuseumOutlinedIcon />
       <div className="header_serch"></div>
