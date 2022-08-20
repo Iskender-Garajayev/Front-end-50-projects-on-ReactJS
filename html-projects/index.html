@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,22 +8,26 @@
   <link rel="stylesheet" href="./style.css">
   <title>Document</title>
 </head>
+
 <body>
 
-  
-  <div id="demo">
-    <h1>Loge In</h1>
-    <input type="email">
-    <input type="password">
-    <button>SUBMITE</button>
-    <h3>Sing Up</h3>
+  <button onclick="onClick()">Loge In</button>
+
+  <div id="demo" class="login">
+    <div class="login_card">
+      <h1>Loge In</h1>
+      <input type="email"> <br>
+      <input type="password"> <br>
+      <button>SUBMITE</button>
+      <span>Sing Up</span>
+    </div>
   </div>
-  <button onclick="onClick()" >Loge In</button>
-  
+
   <script>
-    function onClick ()  {
+    function onClick() {
       document.getElementById("demo").style.opacity = "1";
     }
   </script>
 </body>
+
 </html>
