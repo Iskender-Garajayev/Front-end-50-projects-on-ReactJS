@@ -22,8 +22,8 @@ body{
   border-radius: 2rem;
 }
 
-/* .login_card{
+.login_card{
   display: flex;
   flex-direction: column;
   justify-content: center;
-} */
+}
