@@ -1,4 +1,4 @@
- E-commerce site written in Typescript
+ Movie site written in React js
 
 ## What tools were used
 - react-responsive-carousel
