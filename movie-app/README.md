@@ -10,3 +10,5 @@
 
 ![image info](https://github.com/Iskender-Garajayev/Front-end-50-projects-on-ReactJS/blob/main/movie-app/src/Pages/Home/1.PNG)
 
+![image info](https://github.com/Iskender-Garajayev/Front-end-50-projects-on-ReactJS/blob/main/movie-app/src/Pages/Home/2.PNG)
+
