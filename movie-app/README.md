@@ -1,4 +1,4 @@
- Movie site written in React js
+# Movie site written in React js
 
 ## What tools were used
 - react-responsive-carousel
