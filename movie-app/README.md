@@ -8,5 +8,5 @@
 
 [Live demo](https://front-end-50-projects-on-react-js.vercel.app/)
 
-![image info](./src/Image/Screenshoot.jpg)
+![image info](https://github.com/Iskender-Garajayev/Front-end-50-projects-on-ReactJS/blob/main/movie-app/src/Pages/Home/1.PNG)
 
